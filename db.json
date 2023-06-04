@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Juice",
+      "date": "2023-06-04T18:00:00.000Z",
+      "price": 101,
+      "freshness": "Brand New",
+      "comment": "Very Fresh Apple Juice",
+      "id": 2
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "price": 200,
+      "freshness": "Brand New",
+      "comment": "Fresh Mango",
+      "date": "2023-06-09T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Phone",
+      "category": "Electronic",
+      "date": "2023-06-04T18:00:00.000Z",
+      "price": 1202,
+      "freshness": "Refurbished",
+      "comment": "Not good Phone",
+      "id": 4
+    },
+    {
+      "productName": "Phone",
+      "category": "Electronic",
+      "date": "2023-06-04T18:00:00.000Z",
+      "price": 12010,
+      "freshness": "Refurbished",
+      "comment": "Not good Phone",
+      "id": 5
+    },
+    {
+      "productName": "Iphone X",
+      "category": "Electronic",
+      "date": "2023-06-14T18:00:00.000Z",
+      "price": 12500,
+      "freshness": "Second Hand",
+      "comment": "Nice fresh product",
+      "id": 6
+    },
+    {
+      "productName": "Papaya",
+      "category": "Fruits",
+      "date": "2023-06-14T18:00:00.000Z",
+      "price": 123,
+      "freshness": "Brand New",
+      "comment": "Fresh fruit",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
